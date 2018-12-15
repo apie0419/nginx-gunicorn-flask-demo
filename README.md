@@ -22,9 +22,9 @@ $ sudo chmod +x /usr/local/bin/docker-compose
 
 ```
 
-## Run APP
+## Deploy 
 
-1. Deploy
+1. Build
 
 ```
 
